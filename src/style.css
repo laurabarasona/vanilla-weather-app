@@ -1,0 +1,110 @@
+h1 {
+  color: gray;
+  font-family: arial, sans-serif;
+  font-size: 22px;
+}
+
+h2 {
+  color: gray;
+  font-family: arial, sans-serif;
+  font-size: 18px;
+}
+
+.emoji {
+  font-size: 50px;
+}
+
+.searchBar {
+  background-color: #f6f6f6;
+  border-radius: 5px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  color: gray;
+  border-color: #e1e1e1;
+  border-style: solid;
+  padding: 5px;
+}
+
+.checkButton {
+  background-color: #f6f6f6;
+  border-radius: 5px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  color: gray;
+  border-color: #e1e1e1;
+  border-style: solid;
+  padding: 5px;
+}
+
+.currentButton {
+  background-color: #f6f6f6;
+  border-radius: 5px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  color: gray;
+  border-color: #e1e1e1;
+  border-style: solid;
+  padding: 5px;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+
+  color: rgb(135, 135, 135);
+  font-size: 16px;
+  font-weight: 100;
+  line-height: 19px;
+}
+
+.bodyContainer {
+  display: block;
+  margin: 0 auto;
+  max-width: 700px;
+  margin-top: 70px;
+  border: 1px solid #dadde1;
+  border-radius: 5px;
+}
+
+.firstForm {
+  display: block;
+  text-align: center;
+  padding: 20px;
+}
+
+.weatherInfo {
+  display: block;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.dayAndTime {
+  font-family: arial, sans-serif;
+  font-size: 18px;
+}
+
+.col-6 {
+  margin-bottom: 10px;
+}
+
+.emoji {
+  margin-left: 200px;
+}
+
+.grado {
+  margin-top: 20px;
+  color: gray;
+  font-family: arial, sans-serif;
+  font-size: 24px;
+}
+
+small {
+  display: block;
+  text-align: center;
+}
